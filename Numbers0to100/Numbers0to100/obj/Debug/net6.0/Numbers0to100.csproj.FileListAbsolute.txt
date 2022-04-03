@@ -1,0 +1,15 @@
+C:\Users\Lenovo\source\repos\Other_Programming_Activities\Numbers0to100\Numbers0to100\bin\Debug\net6.0\Numbers0to100.exe
+C:\Users\Lenovo\source\repos\Other_Programming_Activities\Numbers0to100\Numbers0to100\bin\Debug\net6.0\Numbers0to100.deps.json
+C:\Users\Lenovo\source\repos\Other_Programming_Activities\Numbers0to100\Numbers0to100\bin\Debug\net6.0\Numbers0to100.runtimeconfig.json
+C:\Users\Lenovo\source\repos\Other_Programming_Activities\Numbers0to100\Numbers0to100\bin\Debug\net6.0\Numbers0to100.dll
+C:\Users\Lenovo\source\repos\Other_Programming_Activities\Numbers0to100\Numbers0to100\bin\Debug\net6.0\ref\Numbers0to100.dll
+C:\Users\Lenovo\source\repos\Other_Programming_Activities\Numbers0to100\Numbers0to100\bin\Debug\net6.0\Numbers0to100.pdb
+C:\Users\Lenovo\source\repos\Other_Programming_Activities\Numbers0to100\Numbers0to100\obj\Debug\net6.0\Numbers0to100.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\Other_Programming_Activities\Numbers0to100\Numbers0to100\obj\Debug\net6.0\Numbers0to100.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\Other_Programming_Activities\Numbers0to100\Numbers0to100\obj\Debug\net6.0\Numbers0to100.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\Other_Programming_Activities\Numbers0to100\Numbers0to100\obj\Debug\net6.0\Numbers0to100.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\Other_Programming_Activities\Numbers0to100\Numbers0to100\obj\Debug\net6.0\Numbers0to100.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Other_Programming_Activities\Numbers0to100\Numbers0to100\obj\Debug\net6.0\Numbers0to100.dll
+C:\Users\Lenovo\source\repos\Other_Programming_Activities\Numbers0to100\Numbers0to100\obj\Debug\net6.0\ref\Numbers0to100.dll
+C:\Users\Lenovo\source\repos\Other_Programming_Activities\Numbers0to100\Numbers0to100\obj\Debug\net6.0\Numbers0to100.pdb
+C:\Users\Lenovo\source\repos\Other_Programming_Activities\Numbers0to100\Numbers0to100\obj\Debug\net6.0\Numbers0to100.genruntimeconfig.cache
